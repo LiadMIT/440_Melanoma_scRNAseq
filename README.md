@@ -18,7 +18,7 @@ To produce Main Figures:
 1. Rerun 5_Final_Clustering_Fig_1.R to produce all sections of **figure 1**
 2. Run 8_T_cell_state_Fig_2.R to produce all sections of **figure 2**
 3. Run 9_Chemokines_Fig_3.R to produce all sections of **figure 3**
-4. Run 12_Myeloid_Interactions_Fig_4.R to produce all sections of **figure 3**
+4. Run 12_Myeloid_Interactions_Fig_4.R to produce all sections of **figure 4**
 
 To produce supplementary figures 3 and 4
 1. Run 10_Supplementary_Fig_3.R to produce **supplementary figure 3**
