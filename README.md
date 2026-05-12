@@ -1,7 +1,7 @@
 # 440_Melanoma_scRNAseq
 Melanoma RNA seq for 20.440 project
 
-In order to complete all preprocessing steps to begin producing main figures run:
+In order to complete all preprocessing steps to begin producing main figures run steps 1-6:
 1. Begin with 1_Data Loading of GEO dataset
 2. Proceed with 2_Metadata_Mapping_Preprocessing.R
 3. Proceed with 3_dimensionality_reduction_harmony_QC.R to cluster cells **supplementary Figure 1 UMAP** and output Silouette score
