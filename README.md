@@ -20,9 +20,9 @@ To produce Main Figures:
 3. Run 9_Chemokines_Fig_3.R to produce all sections of **figure 3**
 4. Run 12_Myeloid_Interactions_Fig_4.R to produce all sections of **figure 3**
 
-To produce supplementary figures 3 and 5
-1. Run 10_Supplementary_Fig_3.R
-2. Run 11_Supplementary_Figure_5.R
+To produce supplementary figures 3 and 4
+1. Run 10_Supplementary_Fig_3.R to produce **supplementary figure 3**
+2. Run 11_Supplementary_Figure_5.R to produce **supplementary figure 4**
 
 To produce Supplementary tables run Tables.R
 
