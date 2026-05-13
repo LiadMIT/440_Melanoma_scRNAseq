@@ -15,8 +15,8 @@ Harmony: Korsunsky, I., Millard, N., Fan, J. et al. Fast, sensitive and accurate
 CellChat: Jin, S., Plikus, M.V. & Nie, Q. CellChat for systematic analysis of cell–cell communication from single-cell transcriptomics. Nat Protoc 20, 180–219 (2025).       https://doi.org/10.1038/s41596-024-01045-4
 
 To produce Main Figures:
-1. Rerun 5_Final_Clustering_Fig_1.R to produce all sections of **figure 1A and B**
-2. Run 8_T_cell_state_Fig_2.R to produce all sections of **figure 1C, D and E**
+1. Rerun 5_Final_Clustering_Fig_1.R to produce **figure 1A and B**
+2. Run 8_T_cell_state_Fig_2.R to produce **figure 1C, D and E**
 3. Run 9_Chemokines_Fig_3.R to produce all sections of **figure 2**
 4. Run 12_Myeloid_Interactions_Fig_4.R to produce all sections of **figure 3**
 
